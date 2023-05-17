@@ -1,2 +1,2 @@
 # irfan-resolusi
-Repositoru untuk irfan
+Repository untuk irfan
